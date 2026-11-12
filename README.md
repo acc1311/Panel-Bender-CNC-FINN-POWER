@@ -1,5 +1,5 @@
 # 🏭 Calculator CNC Panel Bender
-
+https://acc1311.github.io/Panel-Bender-CNC-FINN-POWER/
 **Fișă de lucru pentru atelier de tablă · Editor secvență îndoire · Calcul cote CNC LSX / LDX**
 
 Aplicație web completă, într-un singur fișier `index.html`, care rulează 100% offline, fără server, fără build și fără dependințe externe.
